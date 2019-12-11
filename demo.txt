@@ -1,0 +1,1 @@
+This course is designed to get students working with Git and Github as soon as possible. By the end of the course students will have hands-on experience working with Git and Github and will be able to use Version Control on any project.
