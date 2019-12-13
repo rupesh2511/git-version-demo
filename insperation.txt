@@ -2,6 +2,10 @@ Great things never come from comfort zones.
 
 Dream it. Wish it. Do it.
 
+<<<<<<< HEAD
 Great things never come from comfort zones.
 
 Live  long and prosper -rupesh
+=======
+Great things never come from comfort zones.
+>>>>>>> personal_quote
